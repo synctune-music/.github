@@ -15,5 +15,3 @@ Synctune Music is a branch of [Synctune](https://github.com/synctune-io), focuse
 | [every-music](https://github.com/synctune-music/every-music) | Find band members and collaborators through musician profiles and open calls. |
 | [devoidofbeauty.com](https://github.com/synctune-music/devoidofbeauty.com) | The Devoid of Beauty artist website. |
 | [b143ck.music](https://github.com/synctune-music/b143ck.music) | A music website. |
-
-Repository links use their planned organization locations. Some may be private or pending transfer.
